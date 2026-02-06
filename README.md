@@ -6,6 +6,7 @@ Bash script to help build and run an offline installer in recovery.
 ## Prerequisites
 
 * [UnPlugged](https://github.com/corpnewt/UnPlugged)
+  -Note: This will be placed on your flash drive as-is. Just because you're not running MacOS already doesn't mean you shouldn't download this!
 * [gibMacOS](https://github.com/corpnewt/gibMacOS)
     *  Or a .dmg/.pkg from the "older versions" (10.7-10.12, excluding 10.9) linked [here](https://support.apple.com/en-us/102662)
     *  For Mavericks (10.9), see [this thread](https://forums.macrumors.com/threads/can-we-download-mavericks-directly-from-apples-servers.2444350/)
